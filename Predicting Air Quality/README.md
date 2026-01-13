@@ -140,7 +140,9 @@ As a result:
 
 ```
 ├── Predicting_Air_Quality.ipynb
+├── city_day.csv
 ├── aqi_trend.png
+├── scatter_matrix.png
 ├── aqi_distribution.png
 ├── README.md
 ```
