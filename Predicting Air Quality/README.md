@@ -52,6 +52,7 @@ The following analyses are performed:
 * City-wise AQI trend comparison
 
 📌 *Static version shown below (PNG)*
+
 ![AQI Trend Over Time](aqi_trend.png)
 
 ---
@@ -62,6 +63,7 @@ The following analyses are performed:
 * Helps identify cities with consistently higher pollution levels
 
 📌 *Static version shown below (PNG)*
+
 ![AQI Distribution by City](aqi_distribution.png)
 
 ---
@@ -73,6 +75,7 @@ The following analyses are performed:
 * Identification of different elements effect on each other
 
 📌 *Static version shown below (PNG)*
+
 ![Scatter Plot Matrix for selected features](scatter_matrix.png)
 
 ---
