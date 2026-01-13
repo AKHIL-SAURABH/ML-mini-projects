@@ -127,7 +127,7 @@ Since the target variable (**Vehicles**) is numerical, this problem is treated a
 
 ## 📁 Project Type
 
-**Mini Machine Learning Project**
+**Machine Learning Mini-Project**
 
 ---
 
