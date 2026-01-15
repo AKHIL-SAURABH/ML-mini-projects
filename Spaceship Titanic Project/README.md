@@ -149,8 +149,7 @@ The notebook prints model-wise scores, helping identify:
 ## 📌 Project Status
 
 ✅ Completed
-📓 Notebook-based ML Project
-📊 Suitable for Data Science & ML portfolio
+📓 Notebook-based Mini-ML Project
 
 ---
 
