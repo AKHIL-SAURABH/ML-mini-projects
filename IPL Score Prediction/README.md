@@ -101,7 +101,7 @@ The model then predicts the **final IPL score in real time**.
 
 ### Sample Output:
 
-![Prediction Output](output.jpg)
+![Prediction Output](https://github.com/AKHIL-SAURABH/ML-mini-projects/blob/main/IPL%20Score%20Prediction/output.jpg)
 
 > Example:
 > Match between **RCB vs CSK** at **M. Chinnaswamy Stadium**
