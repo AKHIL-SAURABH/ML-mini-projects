@@ -113,12 +113,12 @@ The following screenshots demonstrate the **actual working output** of the syste
 ### 🎥 Video Frame (Input)
 This screenshot shows a frame captured from the input video where the vehicle is detected.
 
-![Video Frame Input](screenshots/video_frame.png)
+![Video Frame Input](https://media.geeksforgeeks.org/wp-content/uploads/20200326001003/blurred.jpg)
 
 ### 🚘 Detected License Plate (Output)
 This screenshot shows the **extracted license plate region** detected by the system and displayed in real time.
 
-![Detected License Plate](screenshots/detected_plate.png)
+![Detected License Plate](https://media.geeksforgeeks.org/wp-content/uploads/20200326013049/plate.jpg)
 
 > 📌 **Note:**  
 > The recognized license number corresponding to the detected plate is printed in the terminal during execution.  
@@ -228,3 +228,4 @@ It serves as a strong **mini-project / portfolio project** for:
 ## ⚠️ Note
 
 I have provide you a jupyter notebook **"license_plate_recognition.ipynb"** the project also for understanding the whole working of the project.
+
