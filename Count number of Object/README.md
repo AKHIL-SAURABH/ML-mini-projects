@@ -37,7 +37,6 @@ The project is beginner-friendly and serves as a strong introduction to **comput
 
 ```
 ├── objects.ipynb        # Jupyter Notebook with complete implementation
-├── bitss.jpg            # Input image (object image)
 └── README.md            # Project documentation
 ```
 
