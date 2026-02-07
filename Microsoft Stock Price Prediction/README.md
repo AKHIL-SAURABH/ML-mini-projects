@@ -1,7 +1,7 @@
 
 ---
 
-# 📈 Microsoft Stock Price Prediction using Machine 
+# 📈 Microsoft Stock Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 
