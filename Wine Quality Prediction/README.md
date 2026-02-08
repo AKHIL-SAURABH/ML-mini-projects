@@ -10,7 +10,7 @@ The project demonstrates a **complete ML workflow** — from data analysis and p
 
 ---
 
-## 🎯 Problem 
+## 🎯 Problem Statement
 
 Wine quality assessment is traditionally done by human experts, which can be **time-consuming and subjective**.
 This project leverages **machine learning algorithms** to automatically predict wine quality, helping wineries and distributors **maintain consistent quality standards**.
