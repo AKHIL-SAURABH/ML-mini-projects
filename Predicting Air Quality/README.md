@@ -1,7 +1,7 @@
 
 ---
 
-# 🌫️ Predicting Air Quality Using Neural
+# 🌫️ Predicting Air Quality Using Neural Networks
 
 ## 📌 Project Overview
 
