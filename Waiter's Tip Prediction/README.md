@@ -11,7 +11,7 @@ The project demonstrates the **complete machine learning workflow**, from data e
 
 ---
 
-## 📂 Dataset 
+## 📂 Dataset Description
 
 The dataset used in this project contains information about restaurant bills and tips, including:
 
