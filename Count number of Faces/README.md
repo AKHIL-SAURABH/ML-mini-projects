@@ -1,7 +1,7 @@
 
 ---
 
-# 👤 Real-Time Face Counting Using MediaPipe (Webcam)
+# 👤 Real-Time Face Counting Using MediaPipe 
 
 ## 📌 Project Overview
 
@@ -145,4 +145,5 @@ Focus Areas: Data Science, Machine Learning, Applied AI
 This project is intended for educational and learning purposes.
 
 ---
+
 
