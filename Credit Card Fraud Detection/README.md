@@ -1,7 +1,7 @@
 
 ---
 
-# 💳 Credit Card Fraud Detection
+# 💳 Credit Card Fraud 
 
 ## 📌 Project Overview
 
