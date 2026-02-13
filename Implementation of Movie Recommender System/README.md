@@ -1,7 +1,7 @@
 
 ---
 
-# 🎬 Movie Recommender System (Python)
+# 🎬 Movie Recommender System 
 
 ## 📌 Overview
 
