@@ -1,7 +1,7 @@
 
 ---
 
-# 📈 Stock Price Prediction using TensorFlow (LSTM)
+# 📈 Stock Price Prediction using TensorFlow 
 
 ## 📌 Project Overview
 
