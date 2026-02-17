@@ -1,7 +1,7 @@
 
 ---
 
-# 📊 Customer Churn Analysis & Prediction
+# 📊 Customer Churn Analysis & 
 
 ## 📌 Project Overview
 
