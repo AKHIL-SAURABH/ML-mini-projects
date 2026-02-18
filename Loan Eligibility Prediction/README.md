@@ -182,9 +182,3 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
-
-Akhil Saurabh
-Machine Learning & Data Science Enthusiast
-
----
