@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 Handwritten Digit Classification using TensorFlow 
+# 🧠 Handwritten Digit Classification using TensorFlow (MNIST)
 
 ## 📌 Project Overview
 
