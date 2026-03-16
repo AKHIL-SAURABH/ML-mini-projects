@@ -1,7 +1,7 @@
 
 ---
 
-# 📈 Bitcoin Price Prediction using Machine Learning
+# 📈 Bitcoin Price Prediction using Machine 
 
 ## 📌 Project Overview
 
